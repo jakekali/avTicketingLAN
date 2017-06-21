@@ -1,0 +1,7 @@
+So this is the code outline
+
+1. get the request from the avTicketing Server with the camera number in it.
+2. grab the image from the camera
+3. rename to a 24 charachter random string and save the image into a public folder
+4. send the url back to the server. 
+
